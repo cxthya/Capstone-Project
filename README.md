@@ -1,5 +1,5 @@
 Capstone Project
-
+#Thank you ChaptGBT for helping
 Project Description
 This Python program is a Media Consumption Library that allows users to log books, movies, and TV shows. Users can add entries, view their library, and analyze their media consumption through built-in statistics.
 The program demonstrates core programming concepts, including loops, functions, file handling, error handling, and data analysis.
