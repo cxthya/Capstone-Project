@@ -4,7 +4,7 @@ Project Description
 This Python program is a Media Consumption Library that allows users to log books, movies, and TV shows. Users can add entries, view their library, and analyze their media consumption through built-in statistics.
 The program demonstrates core programming concepts, including loops, functions, file handling, error handling, and data analysis.
 
-Features Implemented
+Features Implemented:
 - Add media entries (books, movies, TV shows)
 - View all saved entries
 - Persistent storage using JSON files
@@ -16,7 +16,7 @@ Features Implemented
 - Input validation and error handling
 - Menu-driven interface
   
-Modules Used
+Modules Used:
 Loops & Functions
 - While loop for menu system
 - Multiple reusable functions:
@@ -42,7 +42,7 @@ Data Analysis
 - Highest rated media detection
 - Counting categories (books, movies, TV shows)
 
-## How to Run the Program
+How to Run the Program:
 
 1. Make sure Python is installed 
 2. Download the project files
