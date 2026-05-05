@@ -1,10 +1,10 @@
-# Capstone Project
+Capstone Project
 
-## Project Description
+Project Description
 This Python program is a Media Consumption Library that allows users to log books, movies, and TV shows. Users can add entries, view their library, and analyze their media consumption through built-in statistics.
 The program demonstrates core programming concepts, including loops, functions, file handling, error handling, and data analysis.
 
-## Features Implemented
+Features Implemented
 - Add media entries (books, movies, TV shows)
 - View all saved entries
 - Persistent storage using JSON files
@@ -16,8 +16,8 @@ The program demonstrates core programming concepts, including loops, functions, 
 - Input validation and error handling
 - Menu-driven interface
   
-## Modules Used
-### 1. Loops & Functions
+Modules Used
+Loops & Functions
 - While loop for menu system
 - Multiple reusable functions:
   - create_entry()
@@ -25,19 +25,19 @@ The program demonstrates core programming concepts, including loops, functions, 
   - show_stats()
   - load_data()
   - save_data()
-### 2. Strings & Data Structures
+Strings & Data Structures
 - Strings for user input
 - Dictionaries for media entries
 - Lists for storing the media log
-### 3. File Handling
+File Handling
 - JSON file used to store and load data
 - Persistent storage between program runs
-### 4. Error Handling & Libraries
+Error Handling & Libraries
 - try / except blocks used for:
   - invalid user input
   - file loading errors
 - JSON library used for file storage
-### 5. Data Analysis
+Data Analysis
 - Average rating calculation
 - Highest rated media detection
 - Counting categories (books, movies, TV shows)
